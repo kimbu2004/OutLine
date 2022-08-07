@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".ThirdActivity"
+    android:background="@drawable/background_green">
+
+
+
+    <TextView
+        android:layout_width="330sp"
+        android:layout_height="300sp"
+        android:fontFamily="@font/cafe24"
+        android:text="미술 심리 분석 진행에 \n대한 설명을 적는 부분"
+        android:gravity="center"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/checkBox_man"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="남자"/>
+        <CheckBox
+            android:id="@+id/checkBox_woman"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="여자" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:background="@color/deepblue"
+        android:fontFamily="@font/cafe24"
+        android:text="진행하기"
+        tools:backgroundTint="#03A9F4" />
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:fontFamily="@font/cafe24"
+        android:text="뒤로가기"
+        tools:backgroundTint="#03A9F4" />
+
+
+
+</LinearLayout>

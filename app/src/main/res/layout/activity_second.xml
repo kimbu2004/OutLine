@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:fontFamily="@font/cafe24"
+    android:background="@drawable/background_green">
+
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:fontFamily="@font/cafe24"
+        android:text="어떤 그림을 그릴 것인지 선택하세요."
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/house"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/ic_home"
+        android:fontFamily="@font/cafe24"
+        android:text="집"
+        tools:backgroundTint="#882196F3" />
+
+    <Button
+        android:id="@+id/tree"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:background="@drawable/ic_tree1"
+        android:backgroundTint="@color/Primary"
+        android:fontFamily="@font/cafe24"
+        android:text="나무"
+        app:backgroundTint="#812196F3" />
+
+    <Button
+        android:id="@+id/person"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/ic_person"
+        android:backgroundTint="@color/Primary"
+        android:fontFamily="@font/cafe24"
+        android:text="사람"
+        app:backgroundTint="#812196F3" />
+
+</LinearLayout>
+
+
+

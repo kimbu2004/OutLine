@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OutLine/app/src/main/res/drawable/ic__07806.xml" value="0.1345" />
+        <entry key="..\:/OutLine/app/src/main/res/drawable/ic_baseline_navigate_before.xml" value="0.1345" />
+        <entry key="..\:/OutLine/app/src/main/res/drawable/ic_home.xml" value="0.1345" />
+        <entry key="..\:/OutLine/app/src/main/res/drawable/ic_house1.xml" value="0.1345" />
+        <entry key="..\:/OutLine/app/src/main/res/drawable/ic_tree1.xml" value="0.1575" />
+        <entry key="..\:/OutLine/app/src/main/res/font/font.xml" value="0.2916666666666667" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_camera.xml" value="0.286231884057971" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_final.xml" value="0.286231884057971" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_first.xml" value="0.286231884057971" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_fourth.xml" value="0.286231884057971" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_load.xml" value="0.21584699453551912" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_second.xml" value="0.3333333333333333" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_third.xml" value="0.3333333333333333" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_timer.xml" value="0.286231884057971" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_toolbar.xml" value="0.2957427536231884" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_toolbar_create.xml" value="0.286231884057971" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/activity_toorbar_create.xml" value="0.286231884057971" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/intro_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/OutLine/app/src/main/res/layout/toolbar.xml" value="0.286231884057971" />
+        <entry key="..\:/OutLine/app/src/main/res/menu/menu_main.xml" value="0.2388888888888889" />
+        <entry key="..\:/OutLine/app/src/main/res/menu/menu_toolbar.xml" value="0.3333333333333333" />
+        <entry key="..\:/OutLine/app/src/main/res/menu/newnote_menu.xml" value="0.3541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
